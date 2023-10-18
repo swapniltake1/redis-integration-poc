@@ -25,7 +25,7 @@ This project is a Proof of Concept (POC) for integrating Redis into your Java ap
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/swapniltake1/redis-integration-poc.git`
 2. Navigate to the project directory: `cd your-repo`
 3. Compile the project: `javac Main.java`
 
